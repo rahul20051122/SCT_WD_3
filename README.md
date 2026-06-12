@@ -51,9 +51,7 @@ SCT_WD_3/
 
 ![Winner Screen](winner.png)
 
-### Mobile Responsive View
 
-![Mobile View](mobile.png)
 
 ## 🎯 Objectives
 
